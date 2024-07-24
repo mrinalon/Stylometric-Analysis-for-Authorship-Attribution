@@ -46,7 +46,7 @@ nltk.download('averaged_perceptron_tagger')
 2. Run the script:
 
     ```bash
-    python stylometric_analysis.py
+    python stylometry_analysis.ipyb
     ```
 
 3. The script will read the text files, perform various stylometric analyses, and output the results, including the likely author of the unknown text.
@@ -71,7 +71,7 @@ nltk.download('averaged_perceptron_tagger')
 .
 ├── README.md
 ├── requirements.txt
-├── stylometric_analysis.py
+├── stylometry_analysis.ipyb
 ├── hound.txt
 ├── war.txt
 └── lost.txt
